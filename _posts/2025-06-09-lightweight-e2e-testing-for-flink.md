@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Lightweight E2E Testing for Flink"
+date: 2025-06-09
+tags: [flink, kafka, testing, java, ci, multiple-jobs, java queues]
 ---
 # 💪 Lightweight End-to-End Testing for Apache Flink Pipelines Using In-Memory Queues
 
